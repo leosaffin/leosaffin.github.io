@@ -2,7 +2,7 @@
 layout: page
 title: NAWDEX
 description: The impact of diabatic processes on the jet stream and downstream influences
-img: http://nawdex.ethz.ch/images/webpage_Logo.png
+img: assets/img/logo_nawdex.png
 importance: 4
 category: previous
 ---
