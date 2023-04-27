@@ -20,4 +20,4 @@ I have previously worked on:
 - Reduced-precision computing for parametrizations
 - The influences of diabatic processes on large-scale dynamics in the midlatitudes and their relation to forecast errors
 
-See the [projects](projects.md) for more details.
+See the projects page for more details.
