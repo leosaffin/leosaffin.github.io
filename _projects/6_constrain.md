@@ -1,10 +1,10 @@
 ---
 layout: page
 title: CONSTRAIN
-description: 
+description:
 img: assets/img/logo_constrain.png
 importance: 1
-category: current
+category: previous
 ---
 
 #### [Project webpage](https://constrain-eu.org/)

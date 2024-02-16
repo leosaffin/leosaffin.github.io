@@ -54,7 +54,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-location: "University of Leeds"
+location: "University of Reading"
 github_username: leosaffin # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: leosaffin # your Twitter handle
@@ -66,7 +66,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://environment.leeds.ac.uk/see/staff/9374/dr-leo-saffin # work page URL
+work_url: https://research.reading.ac.uk/meteorology/people/leo-saffin/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
